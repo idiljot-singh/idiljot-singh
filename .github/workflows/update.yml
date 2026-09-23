@@ -1,0 +1,18 @@
+name: update-repos
+on:
+  schedule: [{cron: "0 6 * * *"}]
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          gh api "users/${{ github.repository_owner }}/repos?type=owner&sort=pushed&per_page=100" \
+            --jq '.[] | select(.fork==false and .archived==false and (.name|test("github.io$|^${{ github.repository_owner }}$")|not)) | "| [`\(.name)`](\(.html_url)) | \(.description // "") |"' > list.md
+          awk '/<!--REPOS-->/{print;while((getline l<"list.md")>0)print l;skip=1;next} /<!--\/REPOS-->/{skip=0} !skip' README.md > out.md && mv out.md README.md
+          rm list.md
+          git config user.name github-actions; git config user.email actions@github.com
+          git diff --quiet || (git commit -am "Update repo list" && git push)

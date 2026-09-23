@@ -50,16 +50,8 @@ applying **STIX 2.1/TAXII · MITRE ATT&CK/D3FEND · NIST CSF 2.0 · Diamond Mode
 
 | Repo | What it is |
 |---|---|
-| [`metasploitable2-penetration-test`](https://github.com/idiljot-singh/metasploitable2-penetration-test) | 10-12 validated exploitable vulns (root bind shell, vsftpd backdoor, Samba/Java RMI RCE) via Nmap + Metasploit, full remediation report |
-| [`cybersec4europe-forensics`](https://github.com/idiljot-singh/cybersec4europe-forensics) | Reconstructed a phishing + SQLi attack chain from Apache logs correlated with Nessus/Nmap/Nikto scans |
-| [`nixu-challenge-ctf`](https://github.com/idiljot-singh/nixu-challenge-ctf) | Multi-layer obfuscated flag recovery from a phishing PCAP (Wireshark, CyberChef) + Windows memory forensics (Volatility) |
-| [`osint-infrastructure-recon`](https://github.com/idiljot-singh/osint-infrastructure-recon) | Infrastructure reconnaissance using Shodan, Censys, DNS/WHOIS enumeration |
-| [`osint-self-audit`](https://github.com/idiljot-singh/osint-self-audit) | Self-directed OSINT exposure audit and digital footprint analysis |
-| [`social-engineering-attack-simulation`](https://github.com/idiljot-singh/social-engineering-attack-simulation) | Simulated social engineering / pretext attack exercise |
-| [`ethical-hacking-lab`](https://github.com/idiljot-singh/ethical-hacking-lab) | General ethical hacking coursework and lab exercises |
-| [`da-vivian-code-ctf`](https://github.com/idiljot-singh/da-vivian-code-ctf) | CTF write-up and solution walkthrough |
-| [`iot-data-projects`](https://github.com/idiljot-singh/iot-data-projects) | IoT/embedded sensing projects (Raspberry Pi, data analytics) |
-| [`security-portfolio`](https://github.com/idiljot-singh/security-portfolio) | Consolidated index of all penetration-testing, forensics, and OSINT reports |
+<!--REPOS-->
+<!--/REPOS-->
 
 </div>
 
