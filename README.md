@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=whoami;Diljot+Singh+Johal;cd+%2Fcybersecurity+%26%26+ls+-la;CTI+%7C+OSINT+%7C+Digital+Forensics;nmap+-sV+--open+the-next-opportunity" alt="Typing SVG" />
 </a>
 
+[![Portfolio](https://img.shields.io/badge/-idiljot--singh.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41)](https://idiljot-singh.github.io)
+
 </div>
 
 ```bash
