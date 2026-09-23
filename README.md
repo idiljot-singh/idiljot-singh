@@ -15,7 +15,7 @@
 
 <div align="center">
 
-Final-year **BEng ICT Bioeconomy** student at [HAMK](https://www.hamk.fi), Finland — building a
+Final-year **BEng ICT Bioeconomy** student at [HAMK](https://www.hamk.fi), Finland : building a
 **Cyber Threat Intelligence process** for a Finnish engineering consultancy as my Bachelor's thesis,
 applying **STIX 2.1/TAXII · MITRE ATT&CK/D3FEND · NIST CSF 2.0 · Diamond Model**.
 
