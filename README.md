@@ -51,6 +51,16 @@ applying **STIX 2.1/TAXII · MITRE ATT&CK/D3FEND · NIST CSF 2.0 · Diamond Mode
 | Repo | What it is |
 |---|---|
 <!--REPOS-->
+| [`osint-infrastructure-recon`](https://github.com/idiljot-singh/osint-infrastructure-recon) |  |
+| [`cybersec4europe-forensics`](https://github.com/idiljot-singh/cybersec4europe-forensics) |  |
+| [`social-engineering-attack-simulation`](https://github.com/idiljot-singh/social-engineering-attack-simulation) |  |
+| [`metasploitable2-penetration-test`](https://github.com/idiljot-singh/metasploitable2-penetration-test) |  |
+| [`iot-data-projects`](https://github.com/idiljot-singh/iot-data-projects) |  |
+| [`da-vivian-code-ctf`](https://github.com/idiljot-singh/da-vivian-code-ctf) |  |
+| [`ethical-hacking-lab`](https://github.com/idiljot-singh/ethical-hacking-lab) |  |
+| [`nixu-challenge-ctf`](https://github.com/idiljot-singh/nixu-challenge-ctf) |  |
+| [`osint-self-audit`](https://github.com/idiljot-singh/osint-self-audit) |  |
+| [`security-portfolio`](https://github.com/idiljot-singh/security-portfolio) |  |
 <!--/REPOS-->
 
 </div>
