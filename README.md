@@ -23,6 +23,8 @@ applying **STIX 2.1/TAXII · MITRE ATT&CK/D3FEND · NIST CSF 2.0 · Diamond Mode
 
 `root@kali:~# ` recon, exploitation, forensics, and OSINT — documented, not just done.
 
+Now shipping **[Specula](https://github.com/idiljot-singh/Specula)**: an open-source CTI pipeline that narrows every CVE in the world down to the few that matter to one organisation.
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:0d1117&height=2&section=header" width="100%"/>
@@ -43,6 +45,20 @@ applying **STIX 2.1/TAXII · MITRE ATT&CK/D3FEND · NIST CSF 2.0 · Diamond Mode
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=solidity&logoColor=00FF41)
+
+</div>
+
+### `$ ./specula --featured`
+
+<div align="center">
+
+<a href="https://idiljot-singh.github.io/Specula/"><img src="https://raw.githubusercontent.com/idiljot-singh/Specula/main/docs/img/console.png" alt="Specula console: a funnel from every CVE to the few that need action" width="90%"/></a>
+
+**Specula**: threat-informed CVE prioritisation. From ~40,000 CVEs a year to the handful attackers are using against *you*, with a reason for every decision.
+KEV · EPSS · MITRE ATT&CK · STIX 2.1 · explainable scoring · runs entirely on your machine.
+
+[![Live page](https://img.shields.io/badge/-Live%20page-000000?style=for-the-badge&logo=googlechrome&logoColor=3ee6a8)](https://idiljot-singh.github.io/Specula/)
+[![Repo](https://img.shields.io/badge/-Specula-000000?style=for-the-badge&logo=github&logoColor=3ee6a8)](https://github.com/idiljot-singh/Specula)
 
 </div>
 
