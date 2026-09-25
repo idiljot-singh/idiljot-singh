@@ -23,7 +23,7 @@ applying **STIX 2.1/TAXII · MITRE ATT&CK/D3FEND · NIST CSF 2.0 · Diamond Mode
 
 `root@kali:~# ` recon, exploitation, forensics, and OSINT — documented, not just done.
 
-Now shipping **[Specula](https://github.com/idiljot-singh/Specula)**: an open-source CTI pipeline that narrows every CVE in the world down to the few that matter to one organisation.
+Now shipping **[Stenwatch](https://github.com/idiljot-singh/Stenwatch)**: an open-source CTI pipeline that narrows every CVE in the world down to the few that matter to one organisation.
 
 </div>
 
@@ -48,17 +48,17 @@ Now shipping **[Specula](https://github.com/idiljot-singh/Specula)**: an open-so
 
 </div>
 
-### `$ ./specula --featured`
+### `$ ./stenwatch --featured`
 
 <div align="center">
 
-<a href="https://idiljot-singh.github.io/Specula/"><img src="https://raw.githubusercontent.com/idiljot-singh/Specula/main/docs/img/console.png" alt="Specula console: a funnel from every CVE to the few that need action" width="90%"/></a>
+<a href="https://idiljot-singh.github.io/Stenwatch/"><img src="https://raw.githubusercontent.com/idiljot-singh/Stenwatch/main/docs/img/console.png" alt="Stenwatch console: a funnel from every CVE to the few that need action" width="90%"/></a>
 
-**Specula**: threat-informed CVE prioritisation. From ~40,000 CVEs a year to the handful attackers are using against *you*, with a reason for every decision.
+**Stenwatch**: threat-informed CVE prioritisation. From ~40,000 CVEs a year to the handful attackers are using against *you*, with a reason for every decision.
 KEV · EPSS · MITRE ATT&CK · STIX 2.1 · explainable scoring · runs entirely on your machine.
 
-[![Live page](https://img.shields.io/badge/-Live%20page-000000?style=for-the-badge&logo=googlechrome&logoColor=3ee6a8)](https://idiljot-singh.github.io/Specula/)
-[![Repo](https://img.shields.io/badge/-Specula-000000?style=for-the-badge&logo=github&logoColor=3ee6a8)](https://github.com/idiljot-singh/Specula)
+[![Live page](https://img.shields.io/badge/-Live%20page-000000?style=for-the-badge&logo=googlechrome&logoColor=3ee6a8)](https://idiljot-singh.github.io/Stenwatch/)
+[![Repo](https://img.shields.io/badge/-Stenwatch-000000?style=for-the-badge&logo=github&logoColor=3ee6a8)](https://github.com/idiljot-singh/Stenwatch)
 
 </div>
 
@@ -69,7 +69,7 @@ KEV · EPSS · MITRE ATT&CK · STIX 2.1 · explainable scoring · runs entirely 
 | Repo | What it is |
 |---|---|
 <!--REPOS-->
-| [`Specula`](https://github.com/idiljot-singh/Specula) | Threat-informed CVE prioritisation: from every CVE in the world to the few that matter to your organisation. Explainable CTI pipeline with KEV, EPSS, MITRE ATT&CK and STIX 2.1. |
+| [`Stenwatch`](https://github.com/idiljot-singh/Stenwatch) | Threat-informed CVE prioritisation: from every CVE in the world to the few that matter to your organisation. Explainable CTI pipeline with KEV, EPSS, MITRE ATT&CK and STIX 2.1. |
 | [`osint-infrastructure-recon`](https://github.com/idiljot-singh/osint-infrastructure-recon) | Infrastructure reconnaissance using Shodan, Censys, DNS/WHOIS enumeration |
 | [`cybersec4europe-forensics`](https://github.com/idiljot-singh/cybersec4europe-forensics) | Reconstructed a phishing + SQLi attack chain from Apache logs correlated with Nessus/Nmap/Nikto scans |
 | [`social-engineering-attack-simulation`](https://github.com/idiljot-singh/social-engineering-attack-simulation) | Simulated social engineering / pretext attack exercise |
