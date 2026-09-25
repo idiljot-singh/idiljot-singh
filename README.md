@@ -69,6 +69,7 @@ KEV · EPSS · MITRE ATT&CK · STIX 2.1 · explainable scoring · runs entirely 
 | Repo | What it is |
 |---|---|
 <!--REPOS-->
+| [`security-portfolio`](https://github.com/idiljot-singh/security-portfolio) | Consolidated index of all penetration-testing, forensics, and OSINT reports |
 | [`Stenwatch`](https://github.com/idiljot-singh/Stenwatch) | Threat-informed CVE prioritisation: from every CVE in the world to the few that matter to your organisation. Explainable CTI pipeline with KEV, EPSS, MITRE ATT&CK and STIX 2.1. |
 | [`osint-infrastructure-recon`](https://github.com/idiljot-singh/osint-infrastructure-recon) | Infrastructure reconnaissance using Shodan, Censys, DNS/WHOIS enumeration |
 | [`cybersec4europe-forensics`](https://github.com/idiljot-singh/cybersec4europe-forensics) | Reconstructed a phishing + SQLi attack chain from Apache logs correlated with Nessus/Nmap/Nikto scans |
@@ -79,7 +80,6 @@ KEV · EPSS · MITRE ATT&CK · STIX 2.1 · explainable scoring · runs entirely 
 | [`ethical-hacking-lab`](https://github.com/idiljot-singh/ethical-hacking-lab) | General ethical hacking coursework and lab exercises |
 | [`nixu-challenge-ctf`](https://github.com/idiljot-singh/nixu-challenge-ctf) | Multi-layer obfuscated flag recovery from a phishing PCAP (Wireshark, CyberChef) + Windows memory forensics (Volatility) |
 | [`osint-self-audit`](https://github.com/idiljot-singh/osint-self-audit) | Self-directed OSINT exposure audit and digital footprint analysis |
-| [`security-portfolio`](https://github.com/idiljot-singh/security-portfolio) | Consolidated index of all penetration-testing, forensics, and OSINT reports |
 <!--/REPOS-->
 
 </div>
