@@ -70,7 +70,6 @@ KEV · EPSS · MITRE ATT&CK · STIX 2.1 · explainable scoring · runs entirely 
 |---|---|
 <!--REPOS-->
 | [`security-portfolio`](https://github.com/idiljot-singh/security-portfolio) | Consolidated index of all penetration-testing, forensics, and OSINT reports |
-| [`Stenwatch`](https://github.com/idiljot-singh/Stenwatch) | Threat-informed CVE prioritisation: from every CVE in the world to the few that matter to your organisation. Explainable CTI pipeline with KEV, EPSS, MITRE ATT&CK and STIX 2.1. |
 | [`osint-infrastructure-recon`](https://github.com/idiljot-singh/osint-infrastructure-recon) | Infrastructure reconnaissance using Shodan, Censys, DNS/WHOIS enumeration |
 | [`cybersec4europe-forensics`](https://github.com/idiljot-singh/cybersec4europe-forensics) | Reconstructed a phishing + SQLi attack chain from Apache logs correlated with Nessus/Nmap/Nikto scans |
 | [`social-engineering-attack-simulation`](https://github.com/idiljot-singh/social-engineering-attack-simulation) | Simulated social engineering / pretext attack exercise |
